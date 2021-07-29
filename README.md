@@ -1,3 +1,6 @@
+Deploy Practice AWS : https://github.com/a1603169/easy-tic-tac-toe-react.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
